@@ -5,3 +5,10 @@ Bases utilizadas para o estudo:
 [Microdados Educação Básica](http://download.inep.gov.br/microdados/microdados_educacao_basica_2018.zip)
 
 [Microdados Enem](http://download.inep.gov.br/microdados/microdados_enem2018.zip)
+# Recomendações para o uso:
+  1 - Instale as bibliotecas colocadas no arquivo requirements.txt
+        pip install -r requirements.txt
+  2 - Baixe as bases de dados especificadas acima.
+  3 - Salve as bases recem baixadas num diretorio BASES/DADOS/ na mesma pasta que o arquivo .ipynb
+  4 - Execute jupyter notebook no seu CMD e navegue pela arvore até encontrar o Estudo Enem x Educação Básica.ipynb
+  5 - Use nosso notebook sem moderação! :)
