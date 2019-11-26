@@ -3,7 +3,7 @@ Projeto de Data Scientist focado em analises atráves dos microdados disponibili
 
 # Links de Acesso as Bases
 Bases utilizadas para o estudo:<p>
-[Microdados Educação Básica](http://download.inep.gov.br/microdados/microdados_educacao_basica_2018.zip)<p>
+[Microdados Enem por Escola](http://download.inep.gov.br/microdados/enem_por_escola/2005_a_2015/microdados_enem_por_escola.zip)<p>
 [Microdados Enem](http://download.inep.gov.br/microdados/microdados_enem2018.zip)<p>
 [Dados de Estados e Região](http://download.inep.gov.br/microdados/micro_censo_escolar_2014.zip)<p>
   
@@ -11,7 +11,7 @@ Bases utilizadas para o estudo:<p>
   1 - Instale as bibliotecas colocadas no arquivo requirements.txt (pip install -r requirements.txt)<p>
   2 - Baixe as bases de dados especificadas acima.<p>
   3 - Salve as bases recem baixadas num diretorio BASES/DADOS/ na mesma pasta que o arquivo .ipynb<p>
-  4 - Execute jupyter notebook no seu CMD e navegue pela arvore até encontrar o Estudo Enem x Educação Básica.ipynb<p>
+  4 - Execute jupyter notebook no seu CMD e navegue pela arvore até encontrar o Estudos.ipynb<p>
   5 - Use nosso notebook sem moderação! :)<p>
 
 # Resultados Colhidos
